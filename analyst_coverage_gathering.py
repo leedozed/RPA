@@ -2,7 +2,7 @@
 # https://hogni.tistory.com/18
 
 #여러엑셀파일 결합하기
-#엑셀 자동화 with 파이썬: 지정한 범위에서 데이터 찾아서 가져오기
+#엑셀 자동화 with 파이썬: 여러개의 엑셀 파일 불러오기 및 저장하기
 
 from pathlib import Path
 import pandas as pd
